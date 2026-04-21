@@ -1,0 +1,104 @@
+﻿  main.cpp
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\registry.h(67,17): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\registry.h(74,17): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\registry.h(80,17): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\coaches.h(209,17): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\coaches.h(209,87): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\coaches.h(227,17): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\coaches.h(227,51): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\coaches.h(227,51): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\coaches.h(238,17): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\coaches.h(238,51): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\coaches.h(238,51): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\coaches.h(272,17): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\coaches.h(272,69): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\network.h(96,17): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\network.h(96,86): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\network.h(107,17): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\network.h(107,70): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\seating.h(119,17): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\seating.h(119,50): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\seating.h(131,17): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\logging.h(64,17): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\logging.h(83,17): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\storage.h(338,17): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\storage.h(345,17): warning C4566: character represented by universal-character-name '\u2714' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\storage.h(351,17): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\storage.h(357,17): warning C4566: character represented by universal-character-name '\u2714' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\menu.h(117,17): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\menu.h(165,25): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\menu.h(188,17): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\menu.h(285,17): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\menu.h(353,17): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\menu.h(408,17): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\menu.h(438,17): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\menu.h(486,13): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+  Data_Strucutres_PROJECT.vcxproj -> C:\Users\MUsma\source\repos\Data_Strucutres_PROJECT\x64\Debug\Data_Strucutres_PROJECT.exe

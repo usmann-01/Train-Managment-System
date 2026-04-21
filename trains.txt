@@ -1,0 +1,3 @@
+102|Kyber Express|Lahore |Rawalpindi|10:00|3:00|0|Active
+101|Kyber Express|Lahore|Karachi|08:00|23:00|2|Active
+103|Kyber Express|Lahore|Multan|06:00|13:00|0|Active
