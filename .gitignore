@@ -1,43 +1,53 @@
+# ── Visual Studio IDE ─────────────────────────────────────
 .vs/
-# Prerequisites
-*.d
+*.suo
+*.user
+*.userosscache
+*.sln.docview
 
-# Compiled Object files
-*.slo
-*.lo
+# ── Build Output ──────────────────────────────────────────
+Debug/
+Release/
+x64/
+x86/
+ipch/
+out/
+
+# ── Compiled Object Files ─────────────────────────────────
 *.o
 *.obj
+*.slo
+*.lo
 
-# Precompiled Headers
+# ── Precompiled Headers ───────────────────────────────────
 *.gch
 *.pch
 
-# Linker files
+# ── Linker & Debug Files ──────────────────────────────────
 *.ilk
-
-# Debugger Files
 *.pdb
+*.dwo
+*.exp
 
-# Compiled Dynamic libraries
+# ── Static Libraries ──────────────────────────────────────
+*.lib
+*.a
+*.la
+*.lai
+
+# ── Dynamic Libraries ─────────────────────────────────────
+*.dll
 *.so
 *.dylib
-*.dll
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+# ── Executables ───────────────────────────────────────────
 *.exe
 *.out
 *.app
 
-# debug information files
-*.dwo
-*.sln
+# ── Fortran Module Files (remove if not using Fortran) ────
+*.mod
+*.smod
+
+# ── Prerequisites ─────────────────────────────────────────
+*.d
